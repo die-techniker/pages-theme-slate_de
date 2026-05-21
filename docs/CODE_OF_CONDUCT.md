@@ -1,3 +1,5 @@
+*Diese Datei ist im Original-Repository enthalten*
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
