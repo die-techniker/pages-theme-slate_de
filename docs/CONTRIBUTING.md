@@ -1,3 +1,5 @@
+*Diese Datei ist im Original-Repository enthalten*
+
 # Contributing to the Slate theme
 
 Hi there! We're thrilled that you'd like to contribute to the Slate theme. Your help is essential for keeping it great.
