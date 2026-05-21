@@ -8,4 +8,4 @@ permalink: /andere-seite
 
 _Hi_
 
-[Zurück](./)
+[Zurück](../)
