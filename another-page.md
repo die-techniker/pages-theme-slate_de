@@ -1,9 +1,11 @@
 ---
 layout: default
+title: "Eine andere Seite"
+permalink: /andere-seite
 ---
 
-## Welcome to another page
+## Welcome zur einer anderen Seite
 
-_yay_
+_Hi_
 
-[back](./)
+[Zurück](./)
